@@ -5,3 +5,5 @@ I would like to use a remote repository when i want to other developers to colla
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I want to pull changes manually rather than having git automatically doin it for me as when I need those changes then only I will pull it.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
