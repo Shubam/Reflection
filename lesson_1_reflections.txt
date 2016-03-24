@@ -1,4 +1,4 @@
-The way diff helped me to find difference between two files to help me see the bug introduced as it shows the line which is missing in the new one and the line which is added to the new file.
+ The way diff helped me to find difference between two files to help me see the bug introduced as it shows the line which is missing in the new one and the line which is added to the new file.
 
 Having easy access to entire history of a file let's me know where I have done something wrong if the new version is not working properly.
 
