@@ -1,0 +1,1 @@
+When we initiate a repo using git init a .git directory is place inside the rep which contains all the meta data for the history of previous versions of the file.
